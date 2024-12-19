@@ -1,6 +1,6 @@
 import './App.css'
-import CounterHover from './hoc/WithCounter';
-import CounterClick from './hoc/WithCounter';
+import CounterHover from './hoc/CounterHover';
+import CounterClick from './hoc/CounterClick';
 function App() {
 
   return (

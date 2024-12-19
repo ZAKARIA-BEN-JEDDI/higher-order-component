@@ -4,7 +4,7 @@ function CounterClick(props) {
   return (
     <>
       <div className="card">
-        <button onClick={props,increment}>
+        <button onClick={props.increment}>
           count is {props.count}
         </button>
       </div>
